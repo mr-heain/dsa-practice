@@ -1,8 +1,8 @@
 import java.util.Scanner;
-class Node {
+class Node_6 {
 int data;
 Node left ,right;
-public Node(int data){
+public Node_6(int data){
 this.data = data;
 this.left = left;
 this.right = right;}}
@@ -36,7 +36,7 @@ int n = sc.nextInt();
 System.out.println(" enter the node values: ");
 for(int i = 0; i< n; i++){
 int data = sc.nextInt();
-Node node = new Node(data);
+Node_6 node = new Node_6(data);
 if(tree.root == null){
 tree.root = node;}
 else{
