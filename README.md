@@ -11,7 +11,7 @@ A collection of 15 Data Structures & Algorithms programs written in Java — bui
 ```bash
 # Clone the repo
 git clone https://github.com/mr-heain/dsa-practice.git
-cd dsa-practice
+cd dsa-practice/java
 
 # Compile everything
 javac *.java
